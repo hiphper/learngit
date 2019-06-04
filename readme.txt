@@ -3,3 +3,5 @@ Git is free software.
 Git is modify add tex
 Git is  free software distrubuted under the GPL
 Git has a mutable index called stage.
+Git has one
+Git has two
