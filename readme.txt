@@ -7,3 +7,4 @@ Git has one
 Git has tw
 Git Creating a new branch is qitk.
 o
+Git Creating a new branch is quik & simple.
